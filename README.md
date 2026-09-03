@@ -117,7 +117,7 @@ By continuing this project, I hope to become more comfortable with:
 
 ```text
 proxmox-homelab/
-├── README.md
 ├── docs/
+├── notes/
 ├── screenshots/
-└── notes/
+└── README.md
